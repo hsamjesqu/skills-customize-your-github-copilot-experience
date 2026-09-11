@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "task-tracker",
+      "title": "Task Tracker",
+      "description": "Build a task manager using Python functions, reusable code, and simple validation",
+      "path": "assignments/task-tracker",
+      "dueDate": "2026-09-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
